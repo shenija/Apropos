@@ -1,7 +1,7 @@
 {
     "1st Person" :
     [
-        "My fingers wrap around the lubed up {STRAPON}, and I start to spread it around."
+        "Мои пальцы обвиваются вокруг смазанного {STRAPON}а, и я подвожу его к намеченной цели"
     ],
     "2nd Person" :
     [

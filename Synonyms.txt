@@ -169,12 +169,12 @@
 		"кончик"
 	],
 	"{CREAM}": [
-		"cunt juice",
-		"fuck juice",
-		"juice",
-		"lubrication",
-		"pussy juice",
-		"twat juice"
+		"влагалищный сок",
+		"нектар любви",
+		"нектар",
+		"смазку",
+		"нектар киски",
+		"любовный сок"
 	],
 	"{CUM}": [
 		"сперма",
@@ -530,6 +530,11 @@
 		"uncovered",
 		"vulnerable"
 	],
+        "{OPENING}": [
+                "промежност",
+                "щел",
+                "дырк"
+        ],
 	"{PAIN}": [
 		"agony",
 		"discomfort",
