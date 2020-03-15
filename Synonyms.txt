@@ -165,13 +165,8 @@
 		"болт"
 	],
 	"{COCKHEAD}": [
-		"bulb",
-		"cockhead",
-		"end",
-		"head",
-		"knob",
-		"mushroom",
-		"tip"
+		"головку",
+		"кончик"
 	],
 	"{CREAM}": [
 		"cunt juice",
@@ -412,13 +407,12 @@
 		"тверд"
 	],	
 	"{INSERT}": [
-		"implant",
-		"insert",
-		"skewer",
-		"spear",
-		"thrust",
-		"work",
-		"worm"
+		"внедрять",
+		"вставлять",
+		"впихивать",
+		"загонять",
+		"заталкивать",
+		"засовывать"
 	],
 	"{JERK}": [
 		"asshole",
@@ -442,16 +436,16 @@
 		"щедрый"
 	],
 	"{LEWD}": [
-		"indecent",
-		"immodest",
-		"lecherous",
-		"lewd",
-		"lustful",
-		"obscene",
-		"perverted",
-		"shameless",
-		"shameful",
-		"wicked"
+		"непристойн,
+		"развратн",
+		"распущенн",
+		"блудлив",
+		"бесстыдн",
+		"грязн",
+		"похабн",
+		"бесстыж",
+		"порочн",
+		"озорн"
 	],
 	"{LOVE}": [
 		"adoration",
@@ -487,16 +481,12 @@
 		"cold"
 	],
 	"{MFAMILY}": [
-		"boyfriend",
-		"brother",
-		"cousin",
-		"father",
-		"grandfather",
-		"husband",
-		"nephew",
-		"stepbrother",
-		"stepfather",
-		"uncle"
+		"бойфренд",
+		"любовник",
+		"ухажер",
+		"брат",
+		"кавалер",
+		"друг"
 	],
 	"{MOAN}": [
 		"gasp",
@@ -843,13 +833,9 @@
 		"work"
 	],
 	"{WET}": [
-		"coated",
-		"covered",
-		"damp",
-		"drenched",
-		"slick",
-		"soaked",
-		"wet"
+		"сыро",
+		"морко",
+		"влажно"
 	],
 	"{WHORE}": [ -а, -е, -у
 		"шлюх",
