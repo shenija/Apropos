@@ -1,9 +1,9 @@
 {
     "1st Person" :
     [
-        "I'm forced to the ground, legs spread open, and a fake {COCK} is forced between my lips.",
-        "{ACTIVE} holds my head firmly as she presses the tip of her {COCK} to my lips as I struggle.",
-        "({ACTIVE}) I'll teach you to try to steal our men, you little {BITCH}. Choke on this!"
+        "Меня вынудили лечь на землю, раздвинув ноги, и фальшивый {COCK} втискивается между моими губами.",
+        "{ACTIVE} крепко держит мою голову, прижимая кончик своего {COCK}а к моими губам, игнорируя мои попытки сопротивления.",
+        "({ACTIVE}) сейчас я покажу тебе, что бывает за попытки стырить что-то у нас, маленькая {BITCH}а. Выкуси это!"
     ],
     "2nd Person" :
     [
