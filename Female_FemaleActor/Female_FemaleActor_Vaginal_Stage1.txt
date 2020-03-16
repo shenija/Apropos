@@ -1,7 +1,7 @@
 {
     "1st Person" :
     [
-        "({ACTIVE}) I bet none of those guys have fucked you right. I'll show them how to really fuck a girl."
+        "({ACTIVE}) Держу пари, что ни один из этих парней не трахал тебя как следует. Я покажу им, как надо понастоящему трахать девушку."
     ],
     "2nd Person" :
     [

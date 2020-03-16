@@ -1,8 +1,8 @@
 {
     "1st Person" :
     [
-        "I can't believe this sexy hot girl is inside of me, fucking me...",
-        "It's not like I'm a lesbian... I've fucked lots of men and sucked lots of cocks..."
+        "Я не могу поверить, что эта сексуальная горячая девушка находится внутри меня, трахает меня...",
+        "Но это не значит, что я лесбиянка... Я трахалась с многими мужиками и сосала множество {COCK}ов..."
     ],
     "2nd Person" :
     [
