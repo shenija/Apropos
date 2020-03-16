@@ -1,14 +1,14 @@
 {
     "1st Person" :
     [
-        "{ACTIVE} wants to {FUCK} my {MOUTH} more!"
+        "{ACTIVE} хочет {FUCKING} мой {MOUTH}!"
     ],
     "2nd Person" :
     [
-        "{ACTIVE} wants to {FUCK} your {MOUTH} more!"
+        "{ACTIVE} хочет {FUCKING} её {MOUTH}!!"
     ],
     "3rd Person" :
     [
-        "{ACTIVE} wants to {FUCK} {PRIMARY}'s {MOUTH} more!"
+        "{ACTIVE} хочет {FUCKING} {MOUTH} {PRIMARY}!"
     ]
 }
