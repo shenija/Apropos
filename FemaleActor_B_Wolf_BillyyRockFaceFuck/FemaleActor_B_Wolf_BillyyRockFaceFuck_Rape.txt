@@ -1,17 +1,17 @@
 {
     "1st Person": [
-        "Backpedalling from the wolf, I trip over a rock and land hard on my back, dazed and confused...",
-        "I land with a {SCREAM} against the rock, and as hard as I try, I can't get back onto my feet... I'm at the wolf's mercy now...",
-        "Lying dazed on my back over this rock, all I can do is try and catch my breath as the wolf decides what to do with me..."
+        "Отступая от волка, я спотыкаюсь о камень и жестко падаю на спину, меня вгоняет в ступор...",
+        "Я со стоном приземляюсь на скалу, меня сковывает {FEAR} не давая подняться на ноги... Теперь я во власти волка...",
+        "В страхе я вжимаюсь в скалу и пытаюсь отдышаться, пока волк решает, что со мной делать..."
     ],
     "2nd Person": [
-        "Backpedalling from the wolf, you trip over a rock and land hard on your back, dazed and confused...",
-        "You land with a {SCREAM} against the rock, and as hard as you try, you can't get back onto your feet... You're at the wolf's mercy now...",
-        "Lying dazed on your back over this rock, all you can do is try and catch your breath as the wolf decides what to do with you..."
+        "Отступая от волка, ты спотыкаешься о камень и тяжело падаешь на спину, вы ошеломлены и сбиты с толку...",
+        "Вскрикнув вы падаете на скалу, пытаетесь встать, но от вида этого грозного зверя у вас подкашиваются ноги... Теперь вы во власти волка...",
+        "Лежа на спине поверх этого камня, все, что ты можешь сделать, это попытаться отдышаться, пока волк решает, что с тобой делать..."
     ],
     "3rd Person": [
-        "Backpedalling from the wolf, {PRIMARY} trips over a rock and land hard on her back, dazed and confused...",
-        "{PRIMARY} lands with a {SCREAM} against the rock, and as hard as she tries, she can't get back onto her feet... She's at the wolf's mercy now...",
-        "Lying dazed on her back over this rock, all {PRIMARY} can do is try and catch her breath as the wolf decides what to do with her..."
+        "Отступая от волка, {PRIMARY} спотыкается о камень и падает на спину, она потрясена и не может дышать...",
+        "{PRIMARY} вскрикивает в испуге и падает, пытается встать, но вид этого матерого зверя заставляет ее лишь сильней вжаться в камень... Теперь она во власти волка...",
+        "Лежа в оцепенении на этой скале, все что может сделать {PRIMARY}, это попытаться восстановить дыхание, пока волк не решит, что с ней делать..."
     ]
 }
