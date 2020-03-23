@@ -1,18 +1,18 @@
 {
     "1st Person": [
-        "The animal seems to calm as I start stroking it's {BEASTLY} member, but I can already tell he wants more...",
-        "Acting on a hunch, I quickly start stroking its erect {COCK}. To my relief, that calms him down almost instantly.",
-        "Its {COCK} seems to get even harder in my grip... {SWEARING}, a handjob isn't going to be enough, is it?",
-        "With an insistent whinny, I hurridly clamber onto him. I know now there's only one way out of this, I can only hope I can take it..."
+        "Животное кажется спокойным, когда я начинаю гладить его {COCK}, но я уже сейчас могу сказать, что он хочет больше...",
+        "Действуя на интуицию, я быстро начинаю поглаживать его эрегированный {COCK}. К моему облегчению, это почти мгновенно успокаивает его.",
+        "Его {COCK}, кажется, становится еще тверже в моей нежной руке... {SWEARING}, дрочки будет недостаточно, не так ли?",
+        "Под настойчивое ржание я поспешно вскарабкиваюсь на него. Я знаю, что теперь у меня есть только один выход , я могу только надеяться, что смогу его принять..."
     ],
     "2nd Person": [
-        "The animal seems to calm as you start stroking it's {BEASTLY} member, but you can already tell he wants more...",
-        "Acting on a hunch, you quickly start stroking its erect {COCK}. To your relief, that calms him down almost instantly.",
-        "Its {COCK} seems to get even harder in your grip... {SWEARING}, a handjob isn't going to be enough, is it?",
-        "With an insistent whinny, you hurridly clamber onto him. You know now there's only one way out of this, hopefully you can {ACCEPT} it..."
+        "Животное кажется спокойным, когда вы начинаете гладить его {COCK}, но вы уже можете сказать, что он хочет больше...",
+        "Действуя на интуицию, вы быстро начинаете поглаживать его эрегированный {COCK}. К вашему облегчению, это почти мгновенно успокаивает его.",
+        "Его член, кажется, становится еще тверже в твоей хватке... {SWEARING}, дрочка не будет достаточно, не так ли?",
+        "Под настойчивое ржание ты поспешно вскарабкиваешься на него. Зная, что теперь у вас лишь один выход, вы надеетесь что сможете принять его..."
     ],
     "3rd Person": [
-        "{PRIMARY} must really be out of options if she's going to jack off a horse...",
-        "Does {PRIMARY} think she can really get that {ACTIVE} off with just a handjob?"
+        "{PRIMARY} должно быть действительно вне вариантов, если она собирается дрочить коню...",
+        "Неужели {PRIMARY} думает, что она действительно может удовлетворить {ACTIVE} с помощью всего лишь дрочки?"
     ]
 }
