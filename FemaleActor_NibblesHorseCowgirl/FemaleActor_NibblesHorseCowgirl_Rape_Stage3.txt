@@ -1,18 +1,18 @@
 {
     "1st Person": [
-        "As the {PAIN} finally fades to a manageable level, I press down, focusing on getting this over with as soon as possible...",
-        "How much of it have I taken? How much will be enough? Hnng... I hope he {EJACULATE}s soon...",
-        "Gah... {SWEARING}... I need to {ACCEPT} it slow... This {BEASTLY} {COCK} is stretching me further than I've ever gone before...",
-        "I {SCREAM} as the {BEASTLY} {COCK} bottoms out inside me, desperately hoping I can get away without hilting him..."
+        "Когда боль, наконец, сходит до приемлемого уровня, я нажимаю вниз, сосредоточившись на том, чтобы покончить с этим как можно скорее...",
+        "Как много я уже взяла? А сколько будет достаточно? Хннг... Ох надеюсь он скоро кончит...",
+        "Ух... Черт... Мне нужно принять его медленно... Мою киску никто не растягивал так глубоко, как этот необыкновенный {COCK}...",
+        "Я кричу, когда конь вбивает свой {COCK} до основания моей {PUSSY}и, пытаясь подняться я отчаянно надеюсь что он не вгонит его по рукоятку..."
     ],
     "2nd Person": [
-        "As the {PAIN} finally fades to a manageable level, you press down, focusing on getting this over with as soon as possible...",
-        "How much of it have you taken? How much will be enough? Hnng... You hope he {EJACULATE}s soon...",
-        "Gah... {SWEARING}... You need to {ACCEPT} it slow... This {BEASTLY} {COCK} is stretching you further than you've ever gone before...",
-        "You {SCREAM} as the {BEASTLY} {COCK} bottoms out inside you, desperately hoping you can get away without hilting him..."
+        "Когда дискомфорт, наконец уходит, вы нажимаете вниз, сосредоточившись на том, чтобы покончить с этим как можно скорее...",
+        "И сколько же ты уже взяла? И сколько будет достаточно? Хннг... Вы надеетесь, что его на долго не хватит...",
+        "Ох... Проклятье... Вам нужно пускать его медленней... Этот зверский {COCK} растягивает вашу киску сильнее чем кто либо до него.",
+        "Ты стонешь, когда он берет контроль и толкает свой {COCK} до шейки матки, ты отчаянно надеешься, что он не вобьет его по рукоять."
     ],
     "3rd Person": [
-        "The {ACTIVE} finally seems to calm down now that {PRIMARY}'s {PUSSY} is wrapped around the first third of it's {COCK}.",
-        "{PRIMARY}'s pained grimace has finally started to fade, her {WTVAGINAL} {PUSSY} {SLOW}ly adjusting to the {ACTIVE}'s {GIRTH}."
+        "{ACTIVE}, наконец успокаивается когда ее горячая {PUSSY}а растянута вокруг первой трети его {COCK}а.",
+        "Девушка кажется расслабляться когда ее взмокшая {PUSSY}а начала {SLOW}но приспосабливаться к конскому {COCK}у."
     ]
 }
