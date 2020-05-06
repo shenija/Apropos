@@ -1,26 +1,26 @@
 {
     "1st Person" :
     [
-        "As the {ACTIVE}'s huge claw goes around my neck, I feel my {PUSSY} begin to get wet.",
-        "The {ACTIVE} stares at me lustfully. To think this huge {MONSTER} wants my body is such a turn on...",
-        "I guide the {ACTIVE}'s hand around my neck. I want him to take me, to force me...",
-        "The {MONSTER}'s rank breath in my face makes my body tingle. I'm about to do such a {LEWD} thing...",
-        "That's it... Take me... force me... Any {HOLE} you want, don't ask, just make me {ACCEPT} your {BEASTCOCK}..."
+        "Когда огромный коготь вервольфа обвивает мою шею, я чувствую, что моя {PUSSY} становится влажной.",
+        "{ACTIVE} смотрит на меня с вожделением. Подумать только, что это огромный монстр жаждет моего тела, это так заводит...",
+        "Я беру когтистую руку оборотня и сжимаю ее на своей шее. Я хочу, чтобы он взял меня, заставил меня...",
+        "Отвратительное дыхание монстра на моем лице заставляет мое тело покалывать. Я собираюсь сделать столь {LEWD}ую вещь...",
+        "Вот так... Возьми меня... заставь меня... Любое отверстие, которое вы хотите, не спрашивайте, просто заставьте меня принять ваш чудовищный {COCK}."
     ],
     "2nd Person" :
     [
-        "As the {ACTIVE}'s huge claw goes around your neck, you feel your {PUSSY} begin to get wet.",
-        "The {ACTIVE} stares at you lustfully. To think this huge {MONSTER} wants your body is such a turn on...",
-        "You guide the {ACTIVE}'s hand around your neck. You want him to take you, to force you...",
-        "The {MONSTER}'s rank breath in your face makes your body tingle. You're about to do such a {LEWD} thing...",
-        "({PRIMARY}) That's it... Take me... force me... Any {HOLE} you want, don't ask, just make me {ACCEPT} your {BEASTCOCK}..."
+        "Когда огромный коготь вервольфа обвивает вашу шею, вы чувствуете, что ваша {PUSSY}а истекает соком и ноет в предвкушении.",
+        "Этот {ACTIVE} смотрит на тебя с вожделением. Думать, что этот огромный монстр хочет вашего тела, это так заводит...",
+        "Ты направляешь и сжимаешь руку вервольфа вокруг своей шеи. Вы хотите, чтобы он жестко взял вас, вынудил и использовал...",
+        "Отвратительное дыхание на твоем лице заставляет твое тело покалывать. Ты собираешься сделать настолько {LEWD}ую вещь...",
+        "({PRIMARY}) Вот так... Возьми меня... заставь меня... Любое отверстие, которое вы хотите, не спрашивайте, просто заставьте меня принять ваш зверский {COCK}."
     ],
     "3rd Person" :
     [
-        "As the {ACTIVE}'s huge claw goes around {PRIMARY}'s neck, she feels her {PUSSY} begin to get wet.",
-        "The {ACTIVE} stares at {PRIMARY} lustfully. To think this huge {MONSTER} wants her body is such a turn on...",
-        "{PRIMARY} guides the {ACTIVE}'s hand around her neck. She wants him to take her, to force her...",
-        "The {MONSTER}'s rank breath in {PRIMARY}'s face makes her body tingle. She's about to do such a {LEWD} thing...",
-        "({PRIMARY}) That's it... Take me... force me... Any {HOLE} you want, don't ask, just make me {ACCEPT} your {BEASTCOCK}..."
+        "Когда огромный коготь вервольфа обхватывает ее шею, {PRIMARY} чувствует ,что ее {PUSSY} начинает промокать.",
+        "{ACTIVE} смотрит на нее с вожделением. Думать, что это огромное чудовище хочет ее тело, так волнующе...",
+        "{PRIMARY} направляет руку вервольфа вокруг своей шеи. Она хочет, чтобы он овладел ею, заставил ее...",
+        "От мерзкого дыхания монстра на лице, ее тело покалывает. У нее в мыслях до безумия {LEWD}ые идеи...",
+        "({PRIMARY}) Вот так... Возьми меня... заставь меня... Любое отверстие, которое вы хотите, не спрашивайте, просто используйте меня этим звероподобным {COCK}ом."
     ]
 }
