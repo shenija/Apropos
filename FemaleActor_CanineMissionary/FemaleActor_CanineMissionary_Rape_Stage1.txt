@@ -1,29 +1,29 @@
 {
     "1st Person" :
     [
-        "I'm shocked when {ACTIVE} doesn't attack, and starts to slobber over my {BOOBS} instead.",
-        "He's not attacking? Oh my, look at his {COCK}! Maybe I have a way out of this after all...",
-        "My eyes are locked to the {ACTIVE}'s {BEASTLY} red {COCK}, terrified of where it's going to end up...",
-        "{ACTIVE} must be pretty {HORNY}, his {COCK} is dripping pre-cum and the knot has swollen so large.",
-        "I swallow as my eyes are drawn to the {BEASTLY} {COCK} emerging from {ACTIVE}'s furry sheath.",
-        "I feel a familiar tingling in my {FAROUSAL} {PUSSY}. But I can't have sex with... Can I?",
-        "I gulp when I see that the dog's {COCK} is swelling.",
-        "My eyes are locked to the {ACTIVE}'s {BEASTLY} red {COCK}, terrified of where it's going to end up..."        
+        "{ACTIVE} повалил меня на спину и начал лизать мою грудь. Моя {PUSSY}а тягуче ноет. Что происходит? Я ведь хорошая девочка.",
+        "Так он не нападает? О Боже, посмотри на его {COCK}! Может быть, у меня все-таки есть выход...",
+        "Мои колени дрожат от страха. Он скалится и подходит ко мне. Моя {PUSSY}а сжимается в страхе от вида его {HUGE}ого, заостренного {COCK}а.",
+        "{ACTIVE} должно быть не трахался вечность, с его {COCK}а капает предэякулят, а вид его распухшего узла делает меня {WET}ой.",
+        "Я сглатываю, когда мой взгляд падает на собачий {COCK}, похоже я впервые посмотрела на пса как на мужчину.",
+        "Я чувствую знакомое покалывание в моей {PUSSY}е. Но он пес и я не могу заняться с ним сексом... Или могу?.",
+        "В ужасе я инстинктивно раздвигаю свои длинные ножки, открывая перед ним вид на мою беззащитную {WET}ую {PUSSY}у",
+        "Эй не нюхай меня там. Я хватаю пса за голову, но моя {PUSSY}а предательски намокает. Учуяв это пес роняет меня на спину."       
     ],
     "2nd Person" :
     [
-        "You're shocked when {ACTIVE} doesn't attack, and starts to slobber over your {BOOBS} instead.",
-        "He's not attacking? Oh my, look at his {COCK}! Maybe you have a way out of this after all...",
-        "Your eyes are locked to the {ACTIVE}'s {BEASTLY} red {COCK}, terrified of where it's going to end up...",
-        "{ACTIVE} must be pretty {HORNY}, his {COCK} is dripping pre-cum and the knot has swollen so large.",
-        "You swallow as your eyes are drawn to the {BEASTLY} {COCK} emerging from {ACTIVE}'s furry sheath.",
-        "You feel a familiar tingling in your {FAROUSAL} {PUSSY}. But you can't have sex with... Can you?",
-        "You gulp when you see that the dog's {COCK} is swelling.",
-        "Your eyes are locked to the {ACTIVE}'s {BEASTLY} red {COCK}, terrified of where it's going to end up..."
+        "Вы в шоке, когда {ACTIVE} не нападает, а начинает лизать твои {BOOBS}и. Это игра, думали вы пока что то горячее и твердое не ткнулось в вашу киску.",
+        "Так он не нападает? О Боже, посмотри на его {COCK}! Может быть, у тебя все-таки есть выход из этой ситуации...",
+        "Эй отвали от меня тупая псина. Ох кажется ты его разозлила. Нет стой! Он повалил тебя. Его член наливается кровью. Вас ждет дикая порка.",
+        "{ACTIVE} должно быть не трахался вечность с его огромного пульсирующего {COCK}а капает предсемя и узел распух так сильно.",
+        "Обезумевший пес {ROUGH}о оттрахал всех местных сук. С его члена стекает кровь и сперма. Ты поднимаешь взгляд и в ужасе понимаешь что он смотрит на тебя.",
+        "Ты чувствуешь знакомое покалывание в своей {PUSSY}е. Но ты благородная девушка и не можешь отдаться ему... Или можешь?",
+        "Ты сглатываешь, когда видишь, что у этого оскалившегося пса огромный эрегированный член.",
+        "Ваши глаза прикованы к грозному собачьему {COCK}у, вы в ужасе понимаете, что ваша тугая киска единственный шанс на спасение..."
     ],
     "3rd Person" :
     [
-        "{ACTIVE} looms over {PRIMARY}, slobbering at her {BOOBS}, his {COCK} {BEASTLY} and erect...",
-        "Oh my, {ACTIVE}'s {COCK} is {BEASTLY}! {PRIMARY} needs to get away before it's too late!"
+        "{ACTIVE} нависает над ней, слюнявя ее {BOOBS}и, его {COCK} выпрямившись ровняется с ее беззащитной {PUSSY}ой...",
+        "О боже, она так сексуально выглядит что эрекция даже у пса!{PRIMARY} должна уйти, пока не стало слишком поздно!"
     ]
 }
