@@ -1,21 +1,21 @@
 {
     "1st Person" :
     [
-        "His {COCK} looks so red and hot... Maybe if I ride him, he'll calm down...?",
-        "I stare into {ACTIVE}'s eyes as I slide down his {COCK}. He continues to snarl at me, but stops attacking.",
-        "The {ACTIVE}'s {BEASTLY} {COCK} enters me, my lubricated nerve endings exploding from the sensation.",
-        "The thought of someone catching me fucking a {ANIMAL} is kinda scary. It makes me feel {LEWD}."        
+        "Его {COCK} выглядит таким жестким и горячим... Может быть, если я прокачусь на нем, он успокоится...?",
+        "Я смотрю ему в глаза , когда скольжу вниз по его {COCK}у. Он продолжает рычать на меня, но перестает нападать.",
+        "Этот острый собачий {COCK} входит в меня, моя смазанная киска взрывается от этого ощущения.",
+        "Мысль о том, что кто-то поймает меня трахающим животное, немного пугает. Это делает меня такой мокрой."        
     ],
     "2nd Person" :
     [
-        "His {COCK} looks so red and hot... Maybe if you ride him, he'll calm down...?",
-        "You stare into {ACTIVE}'s eyes as you slide down his {COCK}. He snarls at you, but stops attacking.",
-        "The {ACTIVE}'s {BEASTLY} {COCK} enters you, your lubricated nerve endings exploding from the sensation.",
-        "The thought of someone catching you fucking a {ANIMAL} is kinda scary. It makes you feel {LEWD}."
+        "Его {COCK} выглядит таким красным и горячим... Может быть, если ты оседлаешь его, он успокоится...?",
+        "Ты пристально смотришь в глаза псу, когда скользишь вниз по его {COCK}у. Он рычит на тебя, но перестает нападать.",
+        "Этот жгучий звериный {COCK} входит в тебя, твоя смазанная киска взрывается от этого ощущения.",
+        "Мысль о том, что кто-то увидит тебя прыгающей на собачьем члене, немного пугает. Ты чувствуешь себя грязной похотливой сучкой."
     ],
     "3rd Person" :
     [
-        "Tears are in {PRIMARY}'s eyes as she straddles {ACTIVE} and sinks down onto his {COCK}.",
-        "{ACTIVE} grips tightly to {PRIMARY}'s hips as she slides down his {COCK}, her legs {QUIVERING}."
+        "{PRIMARY} со слезами на глазах подминает под себя пса и опускается на его {COCK}.",
+        "{ACTIVE} крепко сжимает ее бедра, когда она скользит вниз по его {COCK}у, ее ноги дрожат."
     ]
 }
