@@ -1,17 +1,17 @@
 {
     "1st Person": [
-        "I lose sight of one of the wolves as the other looms over me, his {BEASTLY} {COCK} already lined up with my {FAROUSAL} {PUSSY}.",
-        "With both wolves taking a keen interest in my {PUSSY}, I can't stop myself from spreading my legs, {DISPLAY}ing both my {PUSSY} and ass.",
-        "I let the wolf step over me, guiding his {COCK} towards my waiting {PUSSY} as his packmate watches."
+        "Я теряю из виду одного из волков, когда другой нависает надо мной, его звериный {COCK} уже поравнялся с моей мокрой {PUSSY}ой.",
+        "Поскольку оба волка проявляют живой интерес к моей {PUSSY}е, я не могу удержаться от того, чтобы раздвинуть ноги, демонстрируя как мою {PUSSY}у, так и задницу.",
+        "Я позволила волку запрыгнуть на себя, направляя его {COCK} к моей ожидающей {PUSSY}е, пока его напарник по стае наблюдает."
     ],
     "2nd Person": [
-        "You lose sight of one of the wolves as the other looms over you, his {BEASTLY} {COCK} already lined up with your {FAROUSAL} {PUSSY}.",
-        "With both wolves taking a keen interest in your {PUSSY}, you can't stop yourself from spreading your legs, {DISPLAY}ing both your privates.",
-        "You let the wolf step over you, guiding his {COCK} towards your waiting {PUSSY} as his packmate watches."
+        "Вы теряете из виду одного из волков, когда другой нависает над вами, его звериный {COCK} уже выстроился в линию с вашей возбужденной {PUSSY}ой.",
+        "Когда оба волка проявляют живой интерес к твоей {PUSSY}е, ты не можешь удержаться от того, чтобы раздвинуть ноги, демонстрируя им оба своих отверстия.",
+        "Ты позволяешь волку запрыгнуть на себя, направляя его {COCK} к твоей ожидающей {PUSSY}е, пока его товарищ по стае наблюдает."
     ],
     "3rd Person": [
-        "{PRIMARY} loses sight of one of the wolves as the other looms over her, his {BEASTLY} {COCK} already lined up with her {FAROUSAL} {PUSSY}.",
-        "With both wolves taking a keen interest in {PRIMARY}'s {PUSSY}, she can't stop yourself from spreading your legs, {DISPLAY}ing both her privates.",
-        "{PRIMARY} lets the wolf step over her, guiding his {COCK} towards her waiting {PUSSY} as his packmate watches."
+        "{PRIMARY} теряет из виду одного из волков, когда другой нависает над ней, его звериный {COCK} уже у входа в ее пылкую {PUSSY}у.",
+        "С обоими волками, проявляющими острый интерес к ее {PUSSY}е, она не может устоять и раздвигает ноги, показывая им обе ее интимные части.",
+        "{PRIMARY} позволяет волку запрыгнуть на нее, направляя его {COCK} к своей ожидающей {PUSSY}е, пока его стая наблюдает."
     ]
 }
