@@ -1,20 +1,20 @@
 {
     "1st Person": [
-        "Wounded and exhausted, the wolves have no trouble pulling my armor off, leaving me {NUDE} before their hungry eyes.",
-        "I land heavily as the two wolves finally knock me onto my back... I can't fight any more...",
-        "Panting on the ground, I know I've been defeated... Now they're going to... Wait... why do they both have hardons?",
-        "Catching a glimpse of their erect members, I struggle harder to regain my footing, but it's already too late..."
+        "Раненые и измученные волки без труда стаскивают с меня доспехи, оставляя меня обнаженной перед их голодными глазами.",
+        "Я тяжело приземляюсь, когда два волка, наконец, опрокидывают меня на спину... Я больше не могу драться...",
+        "Тяжело дыша на земле, я понимаю что потерпела поражение... Теперь они собираются сделать это... Подождите... почему у них такие большие члены?",
+        "Бросив беглый взгляд на их стоячие члены, я изо всех сил стараюсь удержаться на ногах, но уже слишком поздно..."
     ],
     "2nd Person": [
-        "Wounded and exhausted, the wolves have no trouble pulling your armor off, leaving you naked before their hungry eyes.",
-        "You land heavily as the two wolves finally knock you onto your back... You can't fight any more...",
-        "Panting on the ground, you know you've been defeated... Now they're going to... Wait... why do they both have hardons?",
-        "Catching a glimpse of their erect members, you struggle harder to regain your footing, but it's already too late..."
+        "Раненые и измученные, волки без труда срывают с тебя доспехи, оставляя тебя голой перед их голодными глазами.",
+        "Ты жестко приземляешься, когда два волка в конце концов опрокидывают тебя на спину... Ты больше не можешь драться...",
+        "Тяжело дыша на земле, ты знаешь, что потерпела поражение... А теперь они собираются покончить с тобой... Подождите... почему у них стоят члены?",
+        "Заметив мельком их стоячие члены, ты изо всех сил стараешься удержаться на ногах, но уже слишком поздно..."
     ],
     "3rd Person": [
-        "Wounded and exhausted, the wolves have no trouble pulling {PRIMARY}'s armor off, leaving her naked before their hungry eyes.",
-        "{PRIMARY} lands heavily as the two wolves finally knock her onto her back... She can't fight any more...",
-        "Panting on the ground, {PRIMARY} knows she's been defeated... Now they're going to... Wait... why do they both have hardons?",
-        "Catching a glimpse of their erect members, {PRIMARY} struggles harder to regain her footing, but it's already too late..."
+        "Раненые и измученные, волки без труда стаскивают с нее доспехи, оставляя ее обнаженной перед их голодными глазами.",
+        "{PRIMARY} жестко приземляется, поскольку два волка, наконец, сбивают ее на спину... Она больше не может драться...",
+        "Тяжело дыша на земле, {PRIMARY} понимает, что она побеждена... А теперь они собираются это сделать... Подождите... почему у них подергиваются члены?",
+        "Мельком увидев их эрегированные члены, {PRIMARY} изо всех сил пытается устоять на ногах, но уже слишком поздно..."
     ]
 }
