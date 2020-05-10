@@ -1,18 +1,18 @@
 {
     "1st Person": [
-        "{ACTIVE} lets go of my hips again, but there's a part of me that no longer wants to escape.",
-        "{SWEARING}, surely he must be close by now? I'm not sure I can take this pace for much longer...",
-        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside me! URGHH! OWWW!",
-        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire knot in me."
+        "{ACTIVE} снова отпускает мои бедра, но какая-то часть меня больше не хочет убегать.",
+        "Проклятье! Он наверное уже близок? В таком темпе, я долго не протяну...",
+        "Ах. Собачий {COCK} набухает внутри меня! Угх! Ох!",
+        "Это требует совсем немного силы, но в конечном итоге {ACTIVE} вбивает весь свой узел в меня."
     ],
     "2nd Person": [
-        "{ACTIVE} lets go of your hips again, but there's a part of you that no longer wants to escape.",
-        "{SWEARING}, surely he must be close by now? You're not sure you can take this pace for much longer...",
-        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside you! URGHH! OWWW!",
-        "It takes quite a bit of force, but eventually {ACTIVE} gets his entire knot in you."
+        "{ACTIVE} снова отпускает твои бедра, но какая-то часть тебя больше не хочет убегать.",
+        "Он вообще собирается кончать? Вы не уверены, что сможете выдержать этот темп...",
+        "Вот черт! Его член набухает внутри тебя! Ох! Ауч!",
+        "Это требует совсем немного силы, но в конечном итоге {ACTIVE} хоронит весь свой узел в вас."
     ],
     "3rd Person": [
-        "{ACTIVE}'s stamina is impressive. {PRIMARY} looks like she's about to faint any moment.",
-        "{ACTIVE} continues to {FUCK} {LEWD}ly into {PRIMARY}. He must be about to {EJACULATE} soon... Right?"
+        "Выносливость этой девушки впечатляет. Похоже, {PRIMARY} вот-вот упадет в обморок. Надеюсь он не затрахает ее до смерти.",
+        "{ACTIVE} продолжает с остервенением драть ее. Он, должно быть, скоро кончит... Так ведь?"
     ]
 }
