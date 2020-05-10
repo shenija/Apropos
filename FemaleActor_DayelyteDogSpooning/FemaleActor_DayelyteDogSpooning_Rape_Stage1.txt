@@ -1,21 +1,21 @@
 {
     "1st Person" :
     [
-        "I can't get away. All I can do is lift my leg, and give {ACTIVE} what he wants...",
-        "Tears stream down my face as I watch between my legs, as {ACTIVE}'s {BEASTLY} {COCK} pumps inside me.",
-        "I {SCREAM} in shock. {ACTIVE} has brought me to orgasm just by {INSERT}ing his {COCK} into me...",
-        "{ACTIVE} wraps his legs around me and {PENETRAT}es his {COCK} into my {PUSSY}, and we {FUCK} like {ANIMAL}s."        
+        "Я не могу уйти. Все, что я могу сделать, это поднять ногу и дать ему то, что он хочет...",
+        "Слезы текут по моему лицу, когда я смотрю между своих ног, как собачий жесткий {COCK} бьется внутри меня.",
+        "Я вскрикиваю в шоке. Он довел меня до оргазма, просто вставив в меня свой {COCK}...",
+        "{ACTIVE} обхватывает меня ногами и проникает своим {COCK}ом в мою {PUSSY}у. И без прелюдий начинает долбить меня как какую то сучку."        
     ],
     "2nd Person" :
     [
-        "You can't get away. All you can do is lift your leg, and give {ACTIVE} what he wants...",
-        "Tears stream down your face as you watch between your legs, as {ACTIVE}'s {BEASTLY} {COCK} pumps inside you.",
-        "You {SCREAM} in shock. {ACTIVE} has brought you to orgasm just by {INSERT}ing his {COCK} into you...",
-        "{ACTIVE} wraps his legs around you and {PENETRAT}es his {COCK} into your {PUSSY}, and you {FUCK} like {ANIMAL}s."
+        "Ты не можешь уйти. Все, что вы можете сделать, это поднять ногу и дать ему то, что он хочет...",
+        "Слезы текут по твоему лицу, когда ты смотришь между своих длинных ног, как гладкий собачий {COCK} разносит твою тугую киску.",
+        "Ты вскрикиваешь в шоке. Ощущение гладкого, острого {COCK}а в вашей киске толкает вас за грань. Вы кончаете хотя он только вошел.",
+        "{ACTIVE} обхватывает тебя ногами и вбивает свой {COCK} в твою {PUSSY}у. Выгнув спину, он начинает молотить тебя как дикое животное."
     ],
     "3rd Person" :
     [
-        "{ACTIVE}'s snarling maw at her ear, {PRIMARY} shakes as she spreads her legs and lets him in.",
-        "{PRIMARY} looks mortified as she watches {ACTIVE}'s {BEASTLY} {COCK} pump into her {PUSSY}."
+        "Собачья рычащая пасть у ее уха, бросает девушку в дрожь, {PRIMARY} в страхе раздвигает свои длинные ноги и впускает его.",
+        "{PRIMARY} выглядит подавленно, когда видит, как пес остервенело вбивает свой {COCK} в ее тугую {PUSSY}у."
     ]
 }
