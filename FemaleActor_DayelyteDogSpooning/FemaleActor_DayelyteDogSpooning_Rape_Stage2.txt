@@ -1,21 +1,21 @@
 {
     "1st Person" :
     [
-        "Ah! {SWEARING}, this is too much! I'm not sure I can take this...",
-        "I'm shocked, and a little disgusted, as my body starts to react to the fast thrusting.",
-        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside me! URGHH! OWWW!",
-        "To be desired by this {ANIMAL}... For my body to elicit such an urge, for an animal to {FUCK} a human..."        
+        "Ах! Он такой сильный и грубый! Я не уверена, что смогу прямо ходить после этого...",
+        "Я шокирована и немного возмущена, когда мое тело начинает реагировать на быстрые толчки.",
+        "Проклятье, собачий {COCK} раздувается внутри меня! Охх! Ауч!",
+        "Быть желанной этим животным... Мое тело разжигает в зверях такую страсть что они начинают трахать девушек.."        
     ],
     "2nd Person" :
     [
-        "Ah! {SWEARING}, this is too much! You're not sure you can take this...",
-        "You're shocked, and a little disgusted, as your body starts to react to the fast thrusting.",
-        "{SWEARING}, {ACTIVE}'s {COCK} is swelling inside you! URGHH! OWWW!",
-        "To be desired by this {ANIMAL}... For your body to elicit such an urge, for an animal to {FUCK} a human..." 
+        " Ах! Проклятье, это уже слишком! Ты не уверена, что сможешь выдержать такой напор.",
+        "Ты шокирована и немного возмущена, когда твое тело начинает реагировать на быстрые толчки.",
+        "Оу, его {COCK} раздувается внутри тебя! Ахх! Охх!",
+        "Быть желанной этим псом... Для меня это конечно комплимент, но киска страдает..." 
     ],
     "3rd Person" :
     [
-        "It seems to be too much, and {PRIMARY}'s head falls back as she {SCREAM}s in {FEAR}.",
-        "{PRIMARY}'s {BOOBS} {JIGGL}e {LEWD}ly as {ACTIVE} quickly {FUCK}s her."
+        "Он слишком груб, ее голова откидывается назад, {PRIMARY} начинает хныкать от страха.",
+        "Ее грудь подскакивает так же быстро как ее ебет {ACTIVE}."
     ]
 }
