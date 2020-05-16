@@ -1,27 +1,27 @@
 {
     "1st Person" :
     [
-        "I stare up at {ACTIVE}, amazed at how hard he's {FUCK}ing me. Is this why he attacked me, he wanted sex?",
-        "My entire body is {ROUGH}ly rocked backwards and forwards as {ACTIVE} {BEASTLY} {COCK} {FUCK}s into me.",
-        "I burn with shame and {LUST}, I can't believe I'm being {FUCK}ed this hard by a dog.",
-        "Lost to {LUST}, my hips push backwards against the {BEASTLY} {COCK}, relishing the feeling.",
-        "{ACTIVE}'s {BALLS} feel so heavy as they slap against my {ASSHOLE}. All that {CUM}...",
-        "{ACTIVE} starts to {FUCK} my {PUSSY} like no man has before, he's going to claim me as his bitch.",
-        "My {FLESH} drips sweat during an exhausting fuck. I'm not sure I've ever had it this hard."        
+        "Я смотрю на него снизу вверх, поражаясь тем, как сильно он меня ебет. Так вот почему он напал на меня, он хотел секса?",
+        "Все мое тело грубо дергается назад и вперед, в такт жестким толчкам, долбящего меня собачьего {COCK}а.",
+        "Я сгораю от стыда и похоти, я не могу поверить, что меня так сильно ебет собака.",
+        "Потерявшись в похоти, мои бедра начинают отталкиваться от собачьего {COCK}а, наслаждаясь этим чувством.",
+        "Его яйца кажутся такими тяжелыми, когда шлепают по моей {ASSHOLE}е. Они переполнены спермой...",
+        "{ACTIVE} начинает трахать мою {PUSSY}у, как ни один мужчина до этого, он собирается объявить меня своей сукой.",
+        "Я истекаю потом во время изнурительного траха. Я не уверена, что мне когда-либо было так тяжело."        
     ],
     "2nd Person" :
     [
-        "You stare up at {ACTIVE}, amazed at how hard he's {FUCK}ing you. Is this why he attacked you, he wanted sex?",
-        "Your entire body is {ROUGH}ly rocked backwards and forwards as {ACTIVE} {BEASTLY} {COCK} pounds into you.",
-        "You burn with shame and {LUST}, you can't believe you're being {FUCK}ed this hard by a dog.",
-        "Lost to {LUST}, your hips push backwards against the {BEASTLY} {COCK}, relishing the feeling.",
-        "{ACTIVE}'s {BALLS} feel so heavy as they slap against your {ASSHOLE}. All that {CUM}...",
-        "{ACTIVE} starts to {FUCK} your {PUSSY} like no man has before, he's going to claim you as his bitch.",
-        "Your {FLESH} drips sweat during an exhausting fuck. You're not sure you've ever had it this hard."
+        "Ты смотришь на него снизу вверх, поражаясь тем, как сильно он тебя ебет. Так вот почему он напал на тебя, он хотел секса?",
+        "Все твое тело подпрыгивает под жесткими толчками, когда {ACTIVE} вбивает в тебя свой жилистый {COCK}.",
+        "Ты сгораешь от стыда и похоти, не веря что тебя так сильно ебет собака, но твоя хлюпающая киска признает это.",
+        "Потерявшись в похоти, вы отталкиваетесь от звериного {COCK}а, смакуя это чувство.",
+        "Собачьи яйца кажутся такими тяжелыми, когда шлепают по твоей {ASSHOLE}е. Они полны спермы...",
+        "{ACTIVE} начинает трахать твою {PUSSY}у, как ни один мужчина до этого, он намерен объявить тебя своей сучкой.",
+        "Ты истекаешь потом во время изнурительного траха. Ты уверена, что никто не ебал тебя столь жестко, до этого."
     ],
     "3rd Person" :
     [
-        "{PRIMARY} is being shaken like a ragdoll with the {ROUGH} {FUCK}ing {ACTIVE}'s giving her.",
-        "There's something erotic about the way {PRIMARY}'s feet are in the air and {QUIVERING} as she gets fucked."
+        "{PRIMARY} дергается, как тряпичная кукла под мощными толчками. Как ее киска такое выдерживает?",
+        "Есть что-то эротическое в том, как ее длинные ноги дрожат в воздухе, когда она трахается."
     ]
 }
